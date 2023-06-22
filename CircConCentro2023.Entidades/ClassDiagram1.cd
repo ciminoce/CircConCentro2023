@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Agregación">
+    <Position X="2.375" Y="1.646" Height="0.375" Width="1.012" />
+  </Comment>
+  <Class Name="CircConCentro2023.Entidades.Punto">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAEAAgAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Punto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Circunferencia" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CircConCentro2023.Entidades.Circunferencia">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgAAAAEAAEAAAAAAAACAAAACAAAAACAAAAEAA=</HashCode>
+      <FileName>Circunferencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
